@@ -1,0 +1,16 @@
+# config file
+entrypoint.sh
+odoo.conf
+wait-for-psql.py
+modules/*.pyc
+*.pyc
+*.swp
+scripts/*
+
+#docker file
+docker-compose.yml
+Dockerfile
+update.sh
+test.sh
+shell.sh
+psql.sh
